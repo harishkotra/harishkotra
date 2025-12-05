@@ -38,13 +38,21 @@ I build and scale thriving developer ecosystems around emerging technologies —
 - Community Architecture & Ecosystem Growth  
 
 ### **Languages**
-`JavaScript` • `TypeScript` • `Python` • `Node.js` • `PHP`
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=php&logoColor=white)
 
 ### **Frameworks & Tools**
-`Vue.js` • `React` • `Express` • `LangChain` • `Docker` • `Redis` • `OpenSearch` • `OpenAI SDK`
 
-### **Domains**
-AI Engineering • Developer Platforms • IoT Dashboards • SaaS Systems • Hackathon Infra
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ---
 
@@ -79,10 +87,11 @@ AI Engineering • Developer Platforms • IoT Dashboards • SaaS Systems • H
 
 ## 🎤 Speaking & Community Work
 
-- OpenSearch India  
-- ETHGlobal / ETHDenver  
-- Devcon Asia  
-- Google Cloud Community Days  
+- Open Source India [2024](https://www.opensourceindia.in/osi-speakers-2024/harish-kotra/) | [2025](https://www.opensourceindia.in/osi-speakers-2025/harish-kotra-2/)
+- [OpenSearch India 2025](https://youtu.be/lxi1ghVFTwo)
+- [ETHGlobal](https://youtu.be/J6ftu52nwSs) / [ETHDenver 2025](https://youtu.be/nsLSBjtEbj0)
+- [Devcon Bangkok 2024](https://youtu.be/j2flKQr6UI8?si=oHbrxWas0eAQWYcg)  
+- [Google Cloud Community Days 2025](https://www.linkedin.com/posts/harishkotra_gccdhyderabad-gemma-activity-7340053572149026816-rHpJ)
 - Hacker Houses, meetups, workshops across APAC  
 
 ---
@@ -91,14 +100,8 @@ AI Engineering • Developer Platforms • IoT Dashboards • SaaS Systems • H
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email-harishkotra@gmail.com-red?style=for-the-badge)](mailto:harishkotra@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-kotra@holikau.org-red?style=for-the-badge)](mailto:kotra@holikau.org)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge)](https://linkedin.com/in/harishkotra)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-brightgreen?style=for-the-badge)](https://harishkotra.me)
 
 </div>
-
----
-
-## ✨ Motto
-
-> **Helping developers go from idea to impact.**
