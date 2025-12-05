@@ -44,7 +44,7 @@ I build and scale thriving developer ecosystems around emerging technologies —
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-00ADD8?style=flat&logo=php&logoColor=white)
 
 ### **Frameworks & Tools**
 
