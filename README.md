@@ -58,30 +58,24 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ## 🌟 Highlights
 
-### 🧠 AI & Developer Relations (Gaia)
-- Created 40+ integration demos for AI agents  
-- Built open-source repos like **Gaia Cookbook** and sample agent workflows  
-- Delivered workshops, talks, and community events around AI agents  
+### 🧠 AI & Developer Relations [(@GaiaNet-AI)](https://github.com/orgs/gaianet-ai/)
+- Created [40+](https://dev.to/gaiaai) integration demos for AI agents  
+- Built open-source repos like **[Gaia Cookbook](https://github.com/gaianet-ai/gaia-cookbook)** and sample agent workflows  
+- Delivered workshops, talks, and community events around AI agents.
+  - [OpenSearchCon 2025 India](https://youtu.be/lxi1ghVFTwo)
+  - [Agentic Ethereum Hackathon](https://youtu.be/J6ftu52nwSs) by ETHGlobal
+  - [MotherAI](https://youtu.be/d5GuBwtiZ0E)
+  - [ETHGlobal Singapore 2024](https://youtu.be/OOyFR-2_urY)
+  - OpenSource India 2024 and 2025
 
-### 🌍 Community Architecture (AngelHack)
+### 🌍 Platforms & Community (AngelHack)
 - Managed multi-country developer ecosystems (95K+ developers)  
-- Built ambassador program (300+ students yearly)  
+- Built ambassador program (400+ ambassadors yearly)  
 - Ran 10+ hackathons per year + innovation programs for AWS, Shopify, IBM  
 
 ### 💡 Product & Platform Engineering
 - Product Manager at iBot (Nestlé, HUL, Elkay IoT dashboards)  
 - Head of Technology at Deep Red Ink (SaaS, analytics, APIs)  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishkotra&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishkotra&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
