@@ -7,7 +7,7 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - Lead DevRel for **Gaia**, helping developers build autonomous AI agents  
 - Built developer communities across **India, Sri Lanka, Nepal, Maldives** (95,000+ devs)  
@@ -29,7 +29,7 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### **Core Areas**
 - AI Agents & LLM Integrations  
@@ -89,6 +89,10 @@ I build and scale thriving developer ecosystems around emerging technologies —
 - Hacker Houses, meetups, workshops across APAC  
 
 ---
+
+## Github Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harishkotra)](https://git.io/streak-stats)
 
 ## 🤝 Connect With Me
 
