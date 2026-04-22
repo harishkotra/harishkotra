@@ -2,7 +2,7 @@ name: Update README with Blog and YouTube
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: 0 0 * * *
   workflow_dispatch:
 
 permissions:
@@ -19,7 +19,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: BLOG-POST-LIST
-          feed_list: "https://dev.to/feed/harishkotra"
+          feed_list: https://dev.to/feed/harishkotra
           max_post_count: 5
 
       - name: Update YouTube videos
