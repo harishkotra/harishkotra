@@ -90,6 +90,15 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ---
 
+
+##  Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+##  Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 ## Github Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=harishkotra)
