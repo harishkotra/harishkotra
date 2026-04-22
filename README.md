@@ -93,6 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Multi-Agent AI Swarm with Valkey as the Nervous System](https://dev.to/harishkotra/building-a-multi-agent-ai-swarm-with-valkey-as-the-nervous-system-567p)
+- [Building Expo Architect: A PWA-First LLM Configurator with Expo SDK 55](https://dev.to/harishkotra/building-expo-architect-a-pwa-first-llm-configurator-with-expo-sdk-55-480l)
+- [Building Thermal Guilt: A Solana-First Gamified Energy App](https://dev.to/harishkotra/building-thermal-guilt-a-solana-first-gamified-energy-app-o6m)
+- [Agentoku V2: From Step-by-Step Sudoku Racing to One-Shot Full Solve](https://dev.to/harishkotra/agentoku-v2-from-step-by-step-sudoku-racing-to-one-shot-full-solve-4cj1)
+- [Building a Multi-Agent Sudoku Arena in Node.js](https://dev.to/harishkotra/building-a-multi-agent-sudoku-arena-in-nodejs-73l)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
