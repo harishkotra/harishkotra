@@ -92,7 +92,10 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ## Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harishkotra)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=harishkotra)
+
+![Harish Kotra's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=harishkotra&show_icons=true&theme=dark#gh-dark-mode-only)
+
 
 ## 🤝 Connect With Me
 
