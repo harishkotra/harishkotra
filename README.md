@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Agent Arena: Using Valkey as the Nervous System for Multi-Agent AI](https://dev.to/harishkotra/building-agent-arena-using-valkey-as-the-nervous-system-for-multi-agent-ai-579a)
+- [Building Chaos Lab: When Environment Variables Become Laws of Nature](https://dev.to/harishkotra/building-chaos-lab-when-environment-variables-become-laws-of-nature-22ia)
 - [Building &quot;Operation Varlock&quot;: A Deep Dive into AI-Safe Hacking Simulations](https://dev.to/harishkotra/building-operation-varlock-a-deep-dive-into-ai-safe-hacking-simulations-idk)
 - [Building a Multi-Agent AI Swarm with Valkey as the Nervous System](https://dev.to/harishkotra/building-a-multi-agent-ai-swarm-with-valkey-as-the-nervous-system-567p)
 - [Building Expo Architect: A PWA-First LLM Configurator with Expo SDK 55](https://dev.to/harishkotra/building-expo-architect-a-pwa-first-llm-configurator-with-expo-sdk-55-480l)
-- [Building Thermal Guilt: A Solana-First Gamified Energy App](https://dev.to/harishkotra/building-thermal-guilt-a-solana-first-gamified-energy-app-o6m)
-- [Agentoku V2: From Step-by-Step Sudoku Racing to One-Shot Full Solve](https://dev.to/harishkotra/agentoku-v2-from-step-by-step-sudoku-racing-to-one-shot-full-solve-4cj1)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
