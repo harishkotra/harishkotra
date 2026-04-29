@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Parallel You: A Chrome Extension + Cloud Run AI Layer for Social Writing](https://dev.to/harishkotra/building-parallel-you-a-chrome-extension-cloud-run-ai-layer-for-social-writing-50ba)
 - [Building Living Data DNA Platform: Lineage, Time Travel, and AI-Guided Incident Response](https://dev.to/harishkotra/building-living-data-dna-platform-lineage-time-travel-and-ai-guided-incident-response-42lj)
 - [Building PsycheGarden: A Production-Ready Wellness PWA with Context-Aware AI](https://dev.to/harishkotra/building-psychegarden-a-production-ready-wellness-pwa-with-context-aware-ai-238i)
 - [Building Agent Arena: Using Valkey as the Nervous System for Multi-Agent AI](https://dev.to/harishkotra/building-agent-arena-using-valkey-as-the-nervous-system-for-multi-agent-ai-579a)
 - [Building Chaos Lab: When Environment Variables Become Laws of Nature](https://dev.to/harishkotra/building-chaos-lab-when-environment-variables-become-laws-of-nature-22ia)
-- [Building &quot;Operation Varlock&quot;: A Deep Dive into AI-Safe Hacking Simulations](https://dev.to/harishkotra/building-operation-varlock-a-deep-dive-into-ai-safe-hacking-simulations-idk)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
