@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Engineering the Modern Turing Test: Building BotSpot](https://dev.to/harishkotra/engineering-the-modern-turing-test-building-botspot-o6e)
 - [Technical Deep Dive: Building an AI-Powered Minesweeper Arena](https://dev.to/harishkotra/technical-deep-dive-building-an-ai-powered-minesweeper-arena-2pcp)
 - [Building a Prompt Injection Escape Room with Guardrails, Evals, and HITL](https://dev.to/harishkotra/building-a-prompt-injection-escape-room-with-guardrails-evals-and-hitl-3kla)
 - [Building KillMyIdea: A Fast Multi-Agent Debate App with Next.js + LangChain](https://dev.to/harishkotra/building-killmyidea-a-fast-multi-agent-debate-app-with-nextjs-langchain-4lbj)
 - [Building Parallel You: A Chrome Extension + Cloud Run AI Layer for Social Writing](https://dev.to/harishkotra/building-parallel-you-a-chrome-extension-cloud-run-ai-layer-for-social-writing-50ba)
-- [Building Living Data DNA Platform: Lineage, Time Travel, and AI-Guided Incident Response](https://dev.to/harishkotra/building-living-data-dna-platform-lineage-time-travel-and-ai-guided-incident-response-42lj)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
