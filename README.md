@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building NeuroDrive: A Browser-Native Self-Driving Car That Learns by Evolution](https://dev.to/harishkotra/building-neurodrive-a-browser-native-self-driving-car-that-learns-by-evolution-gog)
 - [Epicycle Doodler: Building a Fourier Transform Visualizer with React &amp; Canvas](https://dev.to/harishkotra/epicycle-doodler-building-a-fourier-transform-visualizer-with-react-canvas-ode)
 - [Engineering the Modern Turing Test: Building BotSpot](https://dev.to/harishkotra/engineering-the-modern-turing-test-building-botspot-o6e)
 - [Technical Deep Dive: Building an AI-Powered Minesweeper Arena](https://dev.to/harishkotra/technical-deep-dive-building-an-ai-powered-minesweeper-arena-2pcp)
 - [Building a Prompt Injection Escape Room with Guardrails, Evals, and HITL](https://dev.to/harishkotra/building-a-prompt-injection-escape-room-with-guardrails-evals-and-hitl-3kla)
-- [Building KillMyIdea: A Fast Multi-Agent Debate App with Next.js + LangChain](https://dev.to/harishkotra/building-killmyidea-a-fast-multi-agent-debate-app-with-nextjs-langchain-4lbj)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
