@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Model Orchestration: Building RouteLLM](https://dev.to/harishkotra/the-art-of-model-orchestration-building-routellm-k6n)
 - [Building AI Behavior Lab: A Developer-First Debugger for Memory, Context, and Tooling](https://dev.to/harishkotra/building-ai-behavior-lab-a-developer-first-debugger-for-memory-context-and-tooling-527a)
 - [Inside Secure Playground — building an interactive prompt-injection simulator](https://dev.to/harishkotra/inside-secure-playground-building-an-interactive-prompt-injection-simulator-930)
 - [Building NeuroDrive: A Browser-Native Self-Driving Car That Learns by Evolution](https://dev.to/harishkotra/building-neurodrive-a-browser-native-self-driving-car-that-learns-by-evolution-gog)
 - [Epicycle Doodler: Building a Fourier Transform Visualizer with React &amp; Canvas](https://dev.to/harishkotra/epicycle-doodler-building-a-fourier-transform-visualizer-with-react-canvas-ode)
-- [Engineering the Modern Turing Test: Building BotSpot](https://dev.to/harishkotra/engineering-the-modern-turing-test-building-botspot-o6e)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
