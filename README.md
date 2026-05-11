@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Biological AI: Building a Tool-Calling Cellular Simulation](https://dev.to/harishkotra/biological-ai-building-a-tool-calling-cellular-simulation-2oa4)
 - [How I Built SciArchitect: Designing a multi-level Academic Dashboard with Gemini &amp; React](https://dev.to/harishkotra/how-i-built-sciarchitect-designing-a-multi-level-academic-dashboard-with-gemini-react-4hfo)
 - [Engineering the Sonic Brand: How I Built BrandBeat](https://dev.to/harishkotra/engineering-the-sonic-brand-how-i-built-brandbeat-3892)
 - [The Art of Model Orchestration: Building RouteLLM](https://dev.to/harishkotra/the-art-of-model-orchestration-building-routellm-k6n)
 - [Building AI Behavior Lab: A Developer-First Debugger for Memory, Context, and Tooling](https://dev.to/harishkotra/building-ai-behavior-lab-a-developer-first-debugger-for-memory-context-and-tooling-527a)
-- [Inside Secure Playground — building an interactive prompt-injection simulator](https://dev.to/harishkotra/inside-secure-playground-building-an-interactive-prompt-injection-simulator-930)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
