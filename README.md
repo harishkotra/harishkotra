@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Boardroom.exe: A Real-Time Multi-Agent Corporate Meeting Simulator](https://dev.to/harishkotra/building-boardroomexe-a-real-time-multi-agent-corporate-meeting-simulator-28j4)
 - [Visualizing AI Agency: Building a &quot;Failure Lab&quot; for LLM Tools](https://dev.to/harishkotra/visualizing-ai-agency-building-a-failure-lab-for-llm-tools-1n4c)
 - [Biological AI: Building a Tool-Calling Cellular Simulation](https://dev.to/harishkotra/biological-ai-building-a-tool-calling-cellular-simulation-2oa4)
 - [How I Built SciArchitect: Designing a multi-level Academic Dashboard with Gemini &amp; React](https://dev.to/harishkotra/how-i-built-sciarchitect-designing-a-multi-level-academic-dashboard-with-gemini-react-4hfo)
 - [Engineering the Sonic Brand: How I Built BrandBeat](https://dev.to/harishkotra/engineering-the-sonic-brand-how-i-built-brandbeat-3892)
-- [The Art of Model Orchestration: Building RouteLLM](https://dev.to/harishkotra/the-art-of-model-orchestration-building-routellm-k6n)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
