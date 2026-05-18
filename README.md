@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Orchestrating Narrative Entropy: The Neural Architecture of Story Swarm’s Multi-Agent Writer’s Room](https://dev.to/harishkotra/orchestrating-narrative-entropy-the-neural-architecture-of-story-swarms-multi-agent-writers-room-4aj0)
 - [Building Sentinel: A WAF for AI Agents with Genkit](https://dev.to/harishkotra/building-sentinel-a-waf-for-ai-agents-with-genkit-fgf)
 - [Building ConspirAI: Orchestrating Absurdity](https://dev.to/harishkotra/building-conspirai-orchestrating-absurdity-eb5)
 - [Building Boardroom.exe: A Real-Time Multi-Agent Corporate Meeting Simulator](https://dev.to/harishkotra/building-boardroomexe-a-real-time-multi-agent-corporate-meeting-simulator-28j4)
 - [Visualizing AI Agency: Building a &quot;Failure Lab&quot; for LLM Tools](https://dev.to/harishkotra/visualizing-ai-agency-building-a-failure-lab-for-llm-tools-1n4c)
-- [Biological AI: Building a Tool-Calling Cellular Simulation](https://dev.to/harishkotra/biological-ai-building-a-tool-calling-cellular-simulation-2oa4)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
