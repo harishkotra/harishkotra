@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Under the Hood: Building an Interactive 1,536-Dimensional Vector Space Visualizer with React &amp; PCA](https://dev.to/harishkotra/under-the-hood-building-an-interactive-1536-dimensional-vector-space-visualizer-with-react-pca-331)
 - [Building A Telegram Bot-to-Bot Communication Showcase With TypeScript](https://dev.to/harishkotra/building-a-telegram-bot-to-bot-communication-showcase-with-typescript-4fi4)
 - [Building Last Message: A Local-First Gemma Emergency Intelligence App](https://dev.to/harishkotra/building-last-message-a-local-first-gemma-emergency-intelligence-app-11bd)
 - [Orchestrating Narrative Entropy: The Neural Architecture of Story Swarm’s Multi-Agent Writer’s Room](https://dev.to/harishkotra/orchestrating-narrative-entropy-the-neural-architecture-of-story-swarms-multi-agent-writers-room-4aj0)
 - [Building Sentinel: A WAF for AI Agents with Genkit](https://dev.to/harishkotra/building-sentinel-a-waf-for-ai-agents-with-genkit-fgf)
-- [Building ConspirAI: Orchestrating Absurdity](https://dev.to/harishkotra/building-conspirai-orchestrating-absurdity-eb5)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
