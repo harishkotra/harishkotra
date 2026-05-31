@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building ShouldWeAutomate: A Decision Intelligence Platform for Workflow Automation](https://dev.to/harishkotra/building-shouldweautomate-a-decision-intelligence-platform-for-workflow-automation-3pn7)
 - [Building an Alien Language from Scratch with LangChain](https://dev.to/harishkotra/building-an-alien-language-from-scratch-with-langchain-43ji)
 - [Building Cerberus.js: Browser-Native Online Proctoring with Client-Side AI](https://dev.to/harishkotra/building-cerberusjs-browser-native-online-proctoring-with-client-side-ai-2h14)
 - [Engineering &quot;The Human Test&quot;: Simulating Biometric Stress with React, Humanized Latency, and Dom-Shaking CSS Glitches](https://dev.to/harishkotra/engineering-the-human-test-simulating-biometric-stress-with-react-humanized-latency-and-h1e)
 - [Deep Dive: Building &quot;Gravity Paint&quot; - A Tactile Physics Instrument with React, Matter.js, and p5.js](https://dev.to/harishkotra/deep-dive-building-gravity-paint-a-tactile-physics-instrument-with-react-matterjs-and-p5js-36jp)
-- [Building a 3D Multi-Agent AI Conference Simulator with React, Three.js, Zustand, and Local LLMs](https://dev.to/harishkotra/building-a-3d-multi-agent-ai-conference-simulator-with-react-threejs-zustand-and-local-llms-3m2h)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
