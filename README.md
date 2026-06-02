@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Engineering Call of Customer: Building an AI-Powered Voice CX Battle Arena](https://dev.to/harishkotra/engineering-call-of-customer-building-an-ai-powered-voice-cx-battle-arena-3jfn)
 - [Building MapWiki: A Technical Deep Dive Into an Open Collaborative Mapping Platform](https://dev.to/harishkotra/building-mapwiki-a-technical-deep-dive-into-an-open-collaborative-mapping-platform-18p8)
 - [Building ShouldWeAutomate: A Decision Intelligence Platform for Workflow Automation](https://dev.to/harishkotra/building-shouldweautomate-a-decision-intelligence-platform-for-workflow-automation-3pn7)
 - [Building an Alien Language from Scratch with LangChain](https://dev.to/harishkotra/building-an-alien-language-from-scratch-with-langchain-43ji)
 - [Building Cerberus.js: Browser-Native Online Proctoring with Client-Side AI](https://dev.to/harishkotra/building-cerberusjs-browser-native-online-proctoring-with-client-side-ai-2h14)
-- [Engineering &quot;The Human Test&quot;: Simulating Biometric Stress with React, Humanized Latency, and Dom-Shaking CSS Glitches](https://dev.to/harishkotra/engineering-the-human-test-simulating-biometric-stress-with-react-humanized-latency-and-h1e)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
