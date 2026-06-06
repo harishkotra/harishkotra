@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deep Dive: Bypassing Browser Memory Caps to Build an Instant 7,000+ AI Model Compatibility Engine](https://dev.to/harishkotra/deep-dive-bypassing-browser-memory-caps-to-build-an-instant-7000-ai-model-compatibility-engine-3k6g)
 - [Building &quot;Customer Escape Room&quot;: A Voice-Powered Game That Teaches Customer Experience by Making You Live Through Support Hell](https://dev.to/harishkotra/building-customer-escape-room-a-voice-powered-game-that-teaches-customer-experience-by-making-201m)
 - [Guarding the Gate - Building a Local-First Core Notification Manager in Android](https://dev.to/harishkotra/guarding-the-gate-building-a-local-first-core-notification-manager-in-android-1ki1)
 - [Engineering Call of Customer: Building an AI-Powered Voice CX Battle Arena](https://dev.to/harishkotra/engineering-call-of-customer-building-an-ai-powered-voice-cx-battle-arena-3jfn)
 - [Building MapWiki: A Technical Deep Dive Into an Open Collaborative Mapping Platform](https://dev.to/harishkotra/building-mapwiki-a-technical-deep-dive-into-an-open-collaborative-mapping-platform-18p8)
-- [Building ShouldWeAutomate: A Decision Intelligence Platform for Workflow Automation](https://dev.to/harishkotra/building-shouldweautomate-a-decision-intelligence-platform-for-workflow-automation-3pn7)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
