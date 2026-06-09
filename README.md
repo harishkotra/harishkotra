@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Same Prompt, 4 LLMs: The Roguelike Showdown](https://dev.to/harishkotra/same-prompt-4-llms-the-roguelike-showdown-2p2h)
 - [Building PromptVault: An Encrypted AI Prompt Marketplace with Fully Homomorphic Encryption](https://dev.to/harishkotra/building-promptvault-an-encrypted-ai-prompt-marketplace-with-fully-homomorphic-encryption-2d54)
 - [Conclave: Confidential Multi-Agent Consensus on Ethereum Using Fully Homomorphic Encryption](https://dev.to/harishkotra/conclave-confidential-multi-agent-consensus-on-ethereum-using-fully-homomorphic-encryption-5dkn)
 - [Deep Dive: Bypassing Browser Memory Caps to Build an Instant 7,000+ AI Model Compatibility Engine](https://dev.to/harishkotra/deep-dive-bypassing-browser-memory-caps-to-build-an-instant-7000-ai-model-compatibility-engine-3k6g)
 - [Building &quot;Customer Escape Room&quot;: A Voice-Powered Game That Teaches Customer Experience by Making You Live Through Support Hell](https://dev.to/harishkotra/building-customer-escape-room-a-voice-powered-game-that-teaches-customer-experience-by-making-201m)
-- [Guarding the Gate - Building a Local-First Core Notification Manager in Android](https://dev.to/harishkotra/guarding-the-gate-building-a-local-first-core-notification-manager-in-android-1ki1)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
