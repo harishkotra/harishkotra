@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Self-Healing LLM Agents with Agno and Streamlit](https://dev.to/harishkotra/building-self-healing-llm-agents-with-agno-and-streamlit-5h78)
 - [Same Prompt, Multiple Local Models — Round 2: Static Site Generator](https://dev.to/harishkotra/same-prompt-multiple-local-models-round-2-static-site-generator-590)
 - [Same Prompt, 4 LLMs: The Roguelike Showdown](https://dev.to/harishkotra/same-prompt-4-llms-the-roguelike-showdown-2p2h)
 - [Building PromptVault: An Encrypted AI Prompt Marketplace with Fully Homomorphic Encryption](https://dev.to/harishkotra/building-promptvault-an-encrypted-ai-prompt-marketplace-with-fully-homomorphic-encryption-2d54)
 - [Conclave: Confidential Multi-Agent Consensus on Ethereum Using Fully Homomorphic Encryption](https://dev.to/harishkotra/conclave-confidential-multi-agent-consensus-on-ethereum-using-fully-homomorphic-encryption-5dkn)
-- [Deep Dive: Bypassing Browser Memory Caps to Build an Instant 7,000+ AI Model Compatibility Engine](https://dev.to/harishkotra/deep-dive-bypassing-browser-memory-caps-to-build-an-instant-7000-ai-model-compatibility-engine-3k6g)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
