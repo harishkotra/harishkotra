@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I built a live demo that breaks agent pipelines in 8 different ways - and why every team building on MCP needs one](https://dev.to/harishkotra/how-i-built-a-live-demo-that-breaks-agent-pipelines-in-8-different-ways-and-why-every-team-35bn)
 - [Play &amp; Learn ML: The Mega Update - 5 New Modules, i18n, and Mobile Support](https://dev.to/harishkotra/play-learn-ml-the-mega-update-5-new-modules-i18n-and-mobile-support-4cmi)
 - [Play &amp; Learn ML Expands: Gradient Descent, Confusion Matrix, and the Overfitting Simulator](https://dev.to/harishkotra/play-learn-ml-expands-gradient-descent-confusion-matrix-and-the-overfitting-simulator-463l)
 - [Building Play &amp; Learn ML: Teaching Machine Learning Through Physical Metaphors](https://dev.to/harishkotra/building-play-learn-ml-teaching-machine-learning-through-physical-metaphors-2a29)
 - [Building Self-Healing LLM Agents with Agno and Streamlit](https://dev.to/harishkotra/building-self-healing-llm-agents-with-agno-and-streamlit-5h78)
-- [Same Prompt, Multiple Local Models — Round 2: Static Site Generator](https://dev.to/harishkotra/same-prompt-multiple-local-models-round-2-static-site-generator-590)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
