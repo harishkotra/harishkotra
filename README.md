@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Built a Real-Time Compliance Router for Stablecoin Payments Using Cleanverse A-Pass](https://dev.to/harishkotra/how-i-built-a-real-time-compliance-router-for-stablecoin-payments-using-cleanverse-a-pass-4amp)
 - [Building an Agent-to-Agent Signal Marketplace with x402 Micropayments](https://dev.to/harishkotra/building-an-agent-to-agent-signal-marketplace-with-x402-micropayments-7c8)
 - [Building a Token Vibe Checker Agent with OnChainOS](https://dev.to/harishkotra/building-a-token-vibe-checker-agent-with-onchainos-20h1)
 - [How I built a live demo that breaks agent pipelines in 8 different ways - and why every team building on MCP needs one](https://dev.to/harishkotra/how-i-built-a-live-demo-that-breaks-agent-pipelines-in-8-different-ways-and-why-every-team-35bn)
 - [Play &amp; Learn ML: The Mega Update - 5 New Modules, i18n, and Mobile Support](https://dev.to/harishkotra/play-learn-ml-the-mega-update-5-new-modules-i18n-and-mobile-support-4cmi)
-- [Play &amp; Learn ML Expands: Gradient Descent, Confusion Matrix, and the Overfitting Simulator](https://dev.to/harishkotra/play-learn-ml-expands-gradient-descent-confusion-matrix-and-the-overfitting-simulator-463l)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
