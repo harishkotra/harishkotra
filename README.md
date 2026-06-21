@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Confidential AI Agent on Terminal 3: Weather Agent Inside a TDX Enclave](https://dev.to/harishkotra/building-a-confidential-ai-agent-on-terminal-3-weather-agent-inside-a-tdx-enclave-2llk)
 - [RAG vs HippoRAG: Solving a Detective Mystery with Knowledge Graphs](https://dev.to/harishkotra/rag-vs-hipporag-solving-a-detective-mystery-with-knowledge-graphs-2jno)
 - [How I Built a Real-Time Compliance Router for Stablecoin Payments Using Cleanverse A-Pass](https://dev.to/harishkotra/how-i-built-a-real-time-compliance-router-for-stablecoin-payments-using-cleanverse-a-pass-4amp)
 - [Building an Agent-to-Agent Signal Marketplace with x402 Micropayments](https://dev.to/harishkotra/building-an-agent-to-agent-signal-marketplace-with-x402-micropayments-7c8)
 - [Building a Token Vibe Checker Agent with OnChainOS](https://dev.to/harishkotra/building-a-token-vibe-checker-agent-with-onchainos-20h1)
-- [How I built a live demo that breaks agent pipelines in 8 different ways - and why every team building on MCP needs one](https://dev.to/harishkotra/how-i-built-a-live-demo-that-breaks-agent-pipelines-in-8-different-ways-and-why-every-team-35bn)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
