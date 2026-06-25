@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PocketAgent: Building a Self-Hosted Payment Delegation System for AI Agents](https://dev.to/harishkotra/pocketagent-building-a-self-hosted-payment-delegation-system-for-ai-agents-4efn)
 - [Building InfiniteLoop: Real-Time Visualization of AI Loop Engineering](https://dev.to/harishkotra/building-infiniteloop-real-time-visualization-of-ai-loop-engineering-3d02)
 - [Building Internet Detective AI: A Production-Grade Multi-Agent AI System](https://dev.to/harishkotra/building-internet-detective-ai-a-production-grade-multi-agent-ai-system-bfp)
 - [Building a Confidential AI Agent on Terminal 3: Weather Agent Inside a TDX Enclave](https://dev.to/harishkotra/building-a-confidential-ai-agent-on-terminal-3-weather-agent-inside-a-tdx-enclave-2llk)
 - [RAG vs HippoRAG: Solving a Detective Mystery with Knowledge Graphs](https://dev.to/harishkotra/rag-vs-hipporag-solving-a-detective-mystery-with-knowledge-graphs-2jno)
-- [How I Built a Real-Time Compliance Router for Stablecoin Payments Using Cleanverse A-Pass](https://dev.to/harishkotra/how-i-built-a-real-time-compliance-router-for-stablecoin-payments-using-cleanverse-a-pass-4amp)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
