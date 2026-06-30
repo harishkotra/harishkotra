@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Phone Cleaner: A Desktop App to Manage WhatsApp Media via ADB](https://dev.to/harishkotra/building-phone-cleaner-a-desktop-app-to-manage-whatsapp-media-via-adb-57jp)
 - [Branch Agent: Git-Style Branching for LLM Conversations](https://dev.to/harishkotra/branch-agent-git-style-branching-for-llm-conversations-5c61)
 - [slacktag-oss Part 2: Three Features That Make Memory Actually Useful](https://dev.to/harishkotra/slacktag-oss-part-2-three-features-that-make-memory-actually-useful-5f05)
 - [Building a Slack Bot That Actually Remembers: slacktag-oss](https://dev.to/harishkotra/building-a-slack-bot-that-actually-remembers-slacktag-oss-250f)
 - [Building Serverless Detective: An AI-Powered Incident Investigation Agent with AI SDK 7](https://dev.to/harishkotra/building-serverless-detective-an-ai-powered-incident-investigation-agent-with-ai-sdk-7-1c2b)
-- [PocketAgent: Building a Self-Hosted Payment Delegation System for AI Agents](https://dev.to/harishkotra/pocketagent-building-a-self-hosted-payment-delegation-system-for-ai-agents-4efn)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
