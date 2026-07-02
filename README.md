@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mycelium: A Multi-Agent Memory Mesh with Provenance, Trust, and Contradiction Resolution](https://dev.to/harishkotra/mycelium-a-multi-agent-memory-mesh-with-provenance-trust-and-contradiction-resolution-m72)
 - [Hover now supports Custom Actions](https://dev.to/harishkotra/hover-now-supports-custom-actions-63i)
 - [Building Phone Cleaner: A Desktop App to Manage WhatsApp Media via ADB](https://dev.to/harishkotra/building-phone-cleaner-a-desktop-app-to-manage-whatsapp-media-via-adb-57jp)
 - [Branch Agent: Git-Style Branching for LLM Conversations](https://dev.to/harishkotra/branch-agent-git-style-branching-for-llm-conversations-5c61)
 - [slacktag-oss Part 2: Three Features That Make Memory Actually Useful](https://dev.to/harishkotra/slacktag-oss-part-2-three-features-that-make-memory-actually-useful-5f05)
-- [Building a Slack Bot That Actually Remembers: slacktag-oss](https://dev.to/harishkotra/building-a-slack-bot-that-actually-remembers-slacktag-oss-250f)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
