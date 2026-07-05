@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an Onchain Reputation Graph for Open Source](https://dev.to/harishkotra/building-an-onchain-reputation-graph-for-open-source-2mmd)
 - [EvalMaster: Building a Practical Curriculum for AI Agent Evals](https://dev.to/harishkotra/evalmaster-building-a-practical-curriculum-for-ai-agent-evals-5ddk)
 - [Building LLM Drag Race: A Live Benchmark That Proves Your Gateway Is Working](https://dev.to/harishkotra/building-llm-drag-race-a-live-benchmark-that-proves-your-gateway-is-working-p9h)
 - [Mycelium: A Multi-Agent Memory Mesh with Provenance, Trust, and Contradiction Resolution](https://dev.to/harishkotra/mycelium-a-multi-agent-memory-mesh-with-provenance-trust-and-contradiction-resolution-m72)
 - [Hover now supports Custom Actions](https://dev.to/harishkotra/hover-now-supports-custom-actions-63i)
-- [Building Phone Cleaner: A Desktop App to Manage WhatsApp Media via ADB](https://dev.to/harishkotra/building-phone-cleaner-a-desktop-app-to-manage-whatsapp-media-via-adb-57jp)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
