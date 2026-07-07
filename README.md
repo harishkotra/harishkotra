@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Just Finder: A Developer-First File Manager in SwiftUI](https://dev.to/harishkotra/building-just-finder-a-developer-first-file-manager-in-swiftui-5hbm)
 - [Mycelium: A Trust-Aware Memory Mesh for Multi-Agent Systems](https://dev.to/harishkotra/mycelium-a-trust-aware-memory-mesh-for-multi-agent-systems-298f)
 - [Building an Onchain Reputation Graph for Open Source](https://dev.to/harishkotra/building-an-onchain-reputation-graph-for-open-source-2mmd)
 - [EvalMaster: Building a Practical Curriculum for AI Agent Evals](https://dev.to/harishkotra/evalmaster-building-a-practical-curriculum-for-ai-agent-evals-5ddk)
 - [Building LLM Drag Race: A Live Benchmark That Proves Your Gateway Is Working](https://dev.to/harishkotra/building-llm-drag-race-a-live-benchmark-that-proves-your-gateway-is-working-p9h)
-- [Mycelium: A Multi-Agent Memory Mesh with Provenance, Trust, and Contradiction Resolution](https://dev.to/harishkotra/mycelium-a-multi-agent-memory-mesh-with-provenance-trust-and-contradiction-resolution-m72)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
