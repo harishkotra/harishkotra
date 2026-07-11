@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [On-Device Celebrity Vegetables: Building a Playful LiteRT.js Demo](https://dev.to/harishkotra/on-device-celebrity-vegetables-building-a-playful-litertjs-demo-i33)
 - [Three AI Agents Walk Into a Debate Stage: Building Verifiable Agent Workflows with Agno + Shepherd](https://dev.to/harishkotra/three-ai-agents-walk-into-a-debate-stage-building-verifiable-agent-workflows-with-agno-shepherd-33bj)
 - [Building Casper Carbon: Autonomous AI Agents for Verifiable Carbon Markets](https://dev.to/harishkotra/building-casper-carbon-autonomous-ai-agents-for-verifiable-carbon-markets-1j5l)
 - [Building Just Finder: A Developer-First File Manager in SwiftUI](https://dev.to/harishkotra/building-just-finder-a-developer-first-file-manager-in-swiftui-5hbm)
 - [Mycelium: A Trust-Aware Memory Mesh for Multi-Agent Systems](https://dev.to/harishkotra/mycelium-a-trust-aware-memory-mesh-for-multi-agent-systems-298f)
-- [Building an Onchain Reputation Graph for Open Source](https://dev.to/harishkotra/building-an-onchain-reputation-graph-for-open-source-2mmd)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
