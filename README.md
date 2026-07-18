@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Token Factory: Making LLM Inference and Memory Visible](https://dev.to/harishkotra/token-factory-making-llm-inference-and-memory-visible-1jdi)
 - [Building TideShift: A Subreddit-Wide Territory War on Reddit&#39;s Developer Platform](https://dev.to/harishkotra/building-tideshift-a-subreddit-wide-territory-war-on-reddits-developer-platform-153p)
 - [Building an AI-Native Memory Match Game with Next.js 15 and OpenRouter](https://dev.to/harishkotra/building-an-ai-native-memory-match-game-with-nextjs-15-and-openrouter-4anc)
 - [Splicing DNA with Gemini: Building &quot;Pet Fusion Laboratory&quot; - A Full-Stack AI Prompt Crafting Engine](https://dev.to/harishkotra/splicing-dna-with-gemini-building-pet-fusion-laboratory-a-full-stack-ai-prompt-crafting-engine-16jl)
 - [Building ELI-X: A Full-Stack AI App That Translates Complex Papers into Metaphors](https://dev.to/harishkotra/building-eli-x-a-full-stack-ai-app-that-translates-complex-papers-into-metaphors-4nj4)
-- [Building Foundry: Autonomous Software Companies on Cardano](https://dev.to/harishkotra/building-foundry-autonomous-software-companies-on-cardano-n67)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
