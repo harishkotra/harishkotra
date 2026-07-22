@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Engineering a Gamified Portfolio: Inside DailyBuild Roulette](https://dev.to/harishkotra/engineering-a-gamified-portfolio-inside-dailybuild-roulette-44am)
 - [From Loops to Graphs: Building the Next Generation of AI Agents](https://dev.to/harishkotra/from-loops-to-graphs-building-the-next-generation-of-ai-agents-kho)
 - [Building PromptGhost: An Always-On Digital Ghost for AI Coding Sessions](https://dev.to/harishkotra/building-promptghost-an-always-on-digital-ghost-for-ai-coding-sessions-34g7)
 - [Kairo: Building an Observability Layer for Multi-Agent Software Engineering](https://dev.to/harishkotra/kairo-building-an-observability-layer-for-multi-agent-software-engineering-15j5)
 - [Token Factory: Making LLM Inference and Memory Visible](https://dev.to/harishkotra/token-factory-making-llm-inference-and-memory-visible-1jdi)
-- [Building TideShift: A Subreddit-Wide Territory War on Reddit&#39;s Developer Platform](https://dev.to/harishkotra/building-tideshift-a-subreddit-wide-territory-war-on-reddits-developer-platform-153p)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
