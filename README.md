@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Faultline Follow-Up: From Agent Investigation to Controlled Recovery](https://dev.to/harishkotra/faultline-follow-up-from-agent-investigation-to-controlled-recovery-2lob)
 - [Faultline: Building An Agent Run Investigation Console With Self-Hosted SigNoz](https://dev.to/harishkotra/faultline-building-an-agent-run-investigation-console-with-self-hosted-signoz-1ci3)
 - [Engineering a Gamified Portfolio: Inside DailyBuild Roulette](https://dev.to/harishkotra/engineering-a-gamified-portfolio-inside-dailybuild-roulette-44am)
 - [From Loops to Graphs: Building the Next Generation of AI Agents](https://dev.to/harishkotra/from-loops-to-graphs-building-the-next-generation-of-ai-agents-kho)
 - [Building PromptGhost: An Always-On Digital Ghost for AI Coding Sessions](https://dev.to/harishkotra/building-promptghost-an-always-on-digital-ghost-for-ai-coding-sessions-34g7)
-- [Kairo: Building an Observability Layer for Multi-Agent Software Engineering](https://dev.to/harishkotra/kairo-building-an-observability-layer-for-multi-agent-software-engineering-15j5)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
