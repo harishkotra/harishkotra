@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Casper Carbon v2: What It Took to Make AI Agents Actually Buy Carbon Credits](https://dev.to/harishkotra/casper-carbon-v2-what-it-took-to-make-ai-agents-actually-buy-carbon-credits-1a37)
+- [Introducing Watch-Along Sessions &amp; Human-in-the-Loop Feedback for Pixel Council](https://dev.to/harishkotra/introducing-watch-along-sessions-human-in-the-loop-feedback-for-pixel-council-2m9j)
 - [Building Pixel Council: Orchestrating AI Agents as Animated Pixel Art Characters on a Spatial Canvas](https://dev.to/harishkotra/building-pixel-council-orchestrating-ai-agents-as-animated-pixel-art-characters-on-a-spatial-canvas-46m)
 - [Turning a Folder Into a Map: Building Cartographer](https://dev.to/harishkotra/turning-a-folder-into-a-map-building-cartographer-1o66)
 - [Faultline Follow-Up: From Agent Investigation to Controlled Recovery](https://dev.to/harishkotra/faultline-follow-up-from-agent-investigation-to-controlled-recovery-2lob)
-- [Faultline: Building An Agent Run Investigation Console With Self-Hosted SigNoz](https://dev.to/harishkotra/faultline-building-an-agent-run-investigation-console-with-self-hosted-signoz-1ci3)
-- [Engineering a Gamified Portfolio: Inside DailyBuild Roulette](https://dev.to/harishkotra/engineering-a-gamified-portfolio-inside-dailybuild-roulette-44am)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
