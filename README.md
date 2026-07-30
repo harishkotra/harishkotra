@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Compass: Building a Real Multi-Model AI Inference Gateway](https://dev.to/harishkotra/compass-building-a-real-multi-model-ai-inference-gateway-15ch)
 - [Technical Deep-Dive: Building an AI-Powered Hand-Drawn Whiteboard Video Generator with Revideo &amp; Rough.js](https://dev.to/harishkotra/technical-deep-dive-building-an-ai-powered-hand-drawn-whiteboard-video-generator-with-revideo--1nh9)
 - [Casper Carbon v2: What It Took to Make AI Agents Actually Buy Carbon Credits](https://dev.to/harishkotra/casper-carbon-v2-what-it-took-to-make-ai-agents-actually-buy-carbon-credits-1a37)
 - [Introducing Watch-Along Sessions &amp; Human-in-the-Loop Feedback for Pixel Council](https://dev.to/harishkotra/introducing-watch-along-sessions-human-in-the-loop-feedback-for-pixel-council-2m9j)
 - [Building Pixel Council: Orchestrating AI Agents as Animated Pixel Art Characters on a Spatial Canvas](https://dev.to/harishkotra/building-pixel-council-orchestrating-ai-agents-as-animated-pixel-art-characters-on-a-spatial-canvas-46m)
-- [Turning a Folder Into a Map: Building Cartographer](https://dev.to/harishkotra/turning-a-folder-into-a-map-building-cartographer-1o66)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
