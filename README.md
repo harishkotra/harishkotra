@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building The Rumor Machine: making the spread of belief visible](https://dev.to/harishkotra/building-the-rumor-machine-making-the-spread-of-belief-visible-4od)
 - [Building Agent Genome: making evolutionary AI visible](https://dev.to/harishkotra/building-agent-genome-making-evolutionary-ai-visible-42dl)
 - [The Inheritance Game: a civilization simulator where the world is the main character](https://dev.to/harishkotra/the-inheritance-game-a-civilization-simulator-where-the-world-is-the-main-character-39e7)
 - [Building RealityOS: a deterministic world with an AI reality-show surface](https://dev.to/harishkotra/building-realityos-a-deterministic-world-with-an-ai-reality-show-surface-3nli)
 - [Building Agent Thunderdome: Real AI Agent-to-Agent Micropayments on Hedera Testnet Using x402](https://dev.to/harishkotra/building-agent-thunderdome-real-ai-agent-to-agent-micropayments-on-hedera-testnet-using-x402-2d47)
-- [Compass: Building a Real Multi-Model AI Inference Gateway](https://dev.to/harishkotra/compass-building-a-real-multi-model-ai-inference-gateway-15ch)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
