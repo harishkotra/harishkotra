@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meeting Lie Detector: Catching Organizational Lies with HydraDB](https://dev.to/harishkotra/meeting-lie-detector-catching-organizational-lies-with-hydradb-1301)
 - [Building GODS vs AGENTS: an architecture for belief under uncertainty](https://dev.to/harishkotra/building-gods-vs-agents-an-architecture-for-belief-under-uncertainty-2n04)
 - [Building The Rumor Machine: making the spread of belief visible](https://dev.to/harishkotra/building-the-rumor-machine-making-the-spread-of-belief-visible-4od)
 - [Building Agent Genome: making evolutionary AI visible](https://dev.to/harishkotra/building-agent-genome-making-evolutionary-ai-visible-42dl)
 - [The Inheritance Game: a civilization simulator where the world is the main character](https://dev.to/harishkotra/the-inheritance-game-a-civilization-simulator-where-the-world-is-the-main-character-39e7)
-- [Building RealityOS: a deterministic world with an AI reality-show surface](https://dev.to/harishkotra/building-realityos-a-deterministic-world-with-an-ai-reality-show-surface-3nli)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
