@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Taming Unstructured LLM Output with a Validate-and-Retry Agent](https://dev.to/harishkotra/taming-unstructured-llm-output-with-a-validate-and-retry-agent-2mnd)
 - [Context Lab: Building a visual laboratory for AI context compression](https://dev.to/harishkotra/context-lab-building-a-visual-laboratory-for-ai-context-compression-47m8)
 - [How Complexity Library turns static code into an inspectable growth trace](https://dev.to/harishkotra/how-complexity-library-turns-static-code-into-an-inspectable-growth-trace-396e)
 - [Building AssetCupid: a trust-gated marketplace for real-world assets](https://dev.to/harishkotra/building-assetcupid-a-trust-gated-marketplace-for-real-world-assets-3n8p)
 - [Building Takumi: An Engineering Craftsmanship Layer for AI Coding Agents](https://dev.to/harishkotra/building-takumi-an-engineering-craftsmanship-layer-for-ai-coding-agents-5ac2)
-- [Meeting Lie Detector: Catching Organizational Lies with HydraDB](https://dev.to/harishkotra/meeting-lie-detector-catching-organizational-lies-with-hydradb-1301)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
