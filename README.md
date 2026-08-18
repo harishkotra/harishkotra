@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Tracewood: Turning AI Coding Agent Telemetry into a Living 3D Forest with HydraDB](https://dev.to/harishkotra/building-tracewood-turning-ai-coding-agent-telemetry-into-a-living-3d-forest-with-hydradb-4331)
 - [Building LiarLiar: A Streamlit + LangChain Game Where the AI Lies to You On Purpose](https://dev.to/harishkotra/building-liarliar-a-streamlit-langchain-game-where-the-ai-lies-to-you-on-purpose-51f6)
 - [LowPriority: Letting a local LLM decide when your background jobs run](https://dev.to/harishkotra/lowpriority-letting-a-local-llm-decide-when-your-background-jobs-run-58l5)
 - [Can You Outsmart an AI Liar? Building Parole Board with LangChain + Streamlit](https://dev.to/harishkotra/can-you-outsmart-an-ai-liar-building-parole-board-with-langchain-streamlit-28c4)
 - [Building SpecDecode: a visual lab for speculative decoding](https://dev.to/harishkotra/building-specdecode-a-visual-lab-for-speculative-decoding-njn)
-- [Taming Unstructured LLM Output with a Validate-and-Retry Agent](https://dev.to/harishkotra/taming-unstructured-llm-output-with-a-validate-and-retry-agent-2mnd)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
