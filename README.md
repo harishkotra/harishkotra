@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI pet that lives on its own: a zero-dependency agent in the browser](https://dev.to/harishkotra/building-an-ai-pet-that-lives-on-its-own-a-zero-dependency-agent-in-the-browser-1dbg)
 - [Building Tracewood: Official HydraDB Cloud SDK Integration, Architectural Constraints, and Microservice API Networks](https://dev.to/harishkotra/building-tracewood-official-hydradb-cloud-sdk-integration-architectural-constraints-and-5035)
 - [Building ScopedAgent: A Production Template for Knowledge-Scoped AI Agents](https://dev.to/harishkotra/building-scopedagent-a-production-template-for-knowledge-scoped-ai-agents-n8n)
 - [AutoRoute: Building an Agent System That Fires Its Own Employees](https://dev.to/harishkotra/autoroute-building-an-agent-system-that-fires-its-own-employees-iok)
 - [Building Tracewood: Multi-Select Project Filtering, MCP Server Integration &amp; Supply Chain Blast Radius Graph Engine](https://dev.to/harishkotra/building-tracewood-multi-select-project-filtering-mcp-server-integration-supply-chain-blast-41m0)
-- [Building Tracewood: Turning AI Coding Agent Telemetry into a Living 3D Forest with HydraDB](https://dev.to/harishkotra/building-tracewood-turning-ai-coding-agent-telemetry-into-a-living-3d-forest-with-hydradb-4331)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
