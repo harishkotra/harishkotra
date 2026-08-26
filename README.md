@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Self-Play Data Factory](https://dev.to/harishkotra/self-play-data-factory-1g6n)
 - [Sleep-time Compute: make your LLM answer before it&#39;s asked](https://dev.to/harishkotra/sleep-time-compute-make-your-llm-answer-before-its-asked-jlk)
 - [10-K-able: Building a Grounded, Eval-Driven Financial Research Agent](https://dev.to/harishkotra/10-k-able-building-a-grounded-eval-driven-financial-research-agent-4odc)
 - [Building an AI pet that lives on its own: a zero-dependency agent in the browser](https://dev.to/harishkotra/building-an-ai-pet-that-lives-on-its-own-a-zero-dependency-agent-in-the-browser-1dbg)
 - [Building Tracewood: Official HydraDB Cloud SDK Integration, Architectural Constraints, and Microservice API Networks](https://dev.to/harishkotra/building-tracewood-official-hydradb-cloud-sdk-integration-architectural-constraints-and-5035)
-- [Building ScopedAgent: A Production Template for Knowledge-Scoped AI Agents](https://dev.to/harishkotra/building-scopedagent-a-production-template-for-knowledge-scoped-ai-agents-n8n)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
