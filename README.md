@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Strata: I Got Tired of Retrieval-Based Code Intelligence, So I Built Something Else](https://dev.to/harishkotra/strata-i-got-tired-of-retrieval-based-code-intelligence-so-i-built-something-else-1lbn)
 - [PRION: Simulating 100,000 Minds Spreading a Rumor — With an LLM That Never Touches the Hot Path](https://dev.to/harishkotra/prion-simulating-100000-minds-spreading-a-rumor-with-an-llm-that-never-touches-the-hot-path-4o7o)
 - [Building the AI Arms Race: A Reproducible Experiment to Test Whether LLMs Evolve Strategies When They Compete](https://dev.to/harishkotra/building-the-ai-arms-race-a-reproducible-experiment-to-test-whether-llms-evolve-strategies-when-5bo8)
 - [Dead Reckoning: Resumable gRPC Server-Streaming for LLM Inference](https://dev.to/harishkotra/dead-reckoning-resumable-grpc-server-streaming-for-llm-inference-102g)
 - [I built a CLI that turns a research paper into a working repo — using a persistent &quot;implementation contract&quot;](https://dev.to/harishkotra/i-built-a-cli-that-turns-a-research-paper-into-a-working-repo-using-a-persistent-implementation-4i5h)
-- [Self-Play Data Factory](https://dev.to/harishkotra/self-play-data-factory-1g6n)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
