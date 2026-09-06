@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Handoff Agent: Solving the Monolithic Agent Trap with Calibrated Triage &amp; Deterministic Escalation](https://dev.to/harishkotra/the-handoff-agent-solving-the-monolithic-agent-trap-with-calibrated-triage-deterministic-5e9h)
 - [Why 90% of AI Agents Fail in Production &lpar;And How to Build Resilient Ones&rpar;](https://dev.to/harishkotra/why-90-of-ai-agents-fail-in-production-and-how-to-build-resilient-ones-1gnd)
 - [Building a Parallel Fan-Out AI Agent Orchestrator: How to Cut Multi-Step LLM Latency by 4x with TypeScript &amp; React](https://dev.to/harishkotra/building-a-parallel-fan-out-ai-agent-orchestrator-how-to-cut-multi-step-llm-latency-by-4x-with-2ac)
 - [Does the Model Know When It&#39;s Wrong? Building an LLM Confidence Calibration Tool](https://dev.to/harishkotra/does-the-model-know-when-its-wrong-building-an-llm-confidence-calibration-tool-249l)
 - [AI Deception Lab — Building a Laboratory for Emergent AI Behavior](https://dev.to/harishkotra/ai-deception-lab-building-a-laboratory-for-emergent-ai-behavior-27o0)
-- [How I Built a Slack Bot That Flags YC Founders Before YC Even Announces Them](https://dev.to/harishkotra/how-i-built-a-slack-bot-that-flags-yc-founders-before-yc-even-announces-them-1h52)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
