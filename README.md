@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ArchitectGPT: Turning One Sentence Into a Production Architecture Diagram &lpar;and a Roast&rpar;](https://dev.to/harishkotra/architectgpt-turning-one-sentence-into-a-production-architecture-diagram-and-a-roast-533)
+- [I built an AI Dungeon Master in an afternoon — here&#39;s the engineering behind it](https://dev.to/harishkotra/i-built-an-ai-dungeon-master-in-an-afternoon-heres-the-engineering-behind-it-3fhc)
 - [Building an AI Dungeon Master: A Living Text Adventure with an LLM as the Game Engine](https://dev.to/harishkotra/building-an-ai-dungeon-master-a-living-text-adventure-with-an-llm-as-the-game-engine-267d)
 - [Building a Real A2A Handoff: Researcher Writer Over the Agent-to-Agent Protocol](https://dev.to/harishkotra/building-a-real-a2a-handoff-researcher-writer-over-the-agent-to-agent-protocol-5alh)
 - [The Handoff Agent: Solving the Monolithic Agent Trap with Calibrated Triage &amp; Deterministic Escalation](https://dev.to/harishkotra/the-handoff-agent-solving-the-monolithic-agent-trap-with-calibrated-triage-deterministic-5e9h)
-- [Why 90% of AI Agents Fail in Production &lpar;And How to Build Resilient Ones&rpar;](https://dev.to/harishkotra/why-90-of-ai-agents-fail-in-production-and-how-to-build-resilient-ones-1gnd)
-- [Building a Parallel Fan-Out AI Agent Orchestrator: How to Cut Multi-Step LLM Latency by 4x with TypeScript &amp; React](https://dev.to/harishkotra/building-a-parallel-fan-out-ai-agent-orchestrator-how-to-cut-multi-step-llm-latency-by-4x-with-2ac)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
