@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Scraped All 234 YC Summer 2026 Startups and Found 31 That Are Just a SKILL.md](https://dev.to/harishkotra/i-scraped-all-234-yc-summer-2026-startups-and-found-31-that-are-just-a-skillmd-2n51)
 - [Building Prism: a 100%-offline 3D visualizer for your AI coding history](https://dev.to/harishkotra/building-prism-a-100-offline-3d-visualizer-for-your-ai-coding-history-3ocl)
 - [ArchitectGPT: Turning One Sentence Into a Production Architecture Diagram &lpar;and a Roast&rpar;](https://dev.to/harishkotra/architectgpt-turning-one-sentence-into-a-production-architecture-diagram-and-a-roast-533)
 - [I built an AI Dungeon Master in an afternoon — here&#39;s the engineering behind it](https://dev.to/harishkotra/i-built-an-ai-dungeon-master-in-an-afternoon-heres-the-engineering-behind-it-3fhc)
 - [Building an AI Dungeon Master: A Living Text Adventure with an LLM as the Game Engine](https://dev.to/harishkotra/building-an-ai-dungeon-master-a-living-text-adventure-with-an-llm-as-the-game-engine-267d)
-- [Building a Real A2A Handoff: Researcher Writer Over the Agent-to-Agent Protocol](https://dev.to/harishkotra/building-a-real-a2a-handoff-researcher-writer-over-the-agent-to-agent-protocol-5alh)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
