@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built a Drag Race for LLMs, and the Loser Is Usually the Better Model](https://dev.to/harishkotra/i-built-a-drag-race-for-llms-and-the-loser-is-usually-the-better-model-17o1)
 - [Why Your AI Agents Keep Calling the Wrong Tools &lpar;And How We Built Toolsmith to Fix Them&rpar;](https://dev.to/harishkotra/why-your-ai-agents-keep-calling-the-wrong-tools-and-how-we-built-toolsmith-to-fix-them-2lle)
 - [Voice Arena: I made two AI voice agents fight live on Agora and let the internet judge](https://dev.to/harishkotra/voice-arena-i-made-two-ai-voice-agents-fight-live-on-agora-and-let-the-internet-judge-5mi)
 - [I Scraped All 234 YC Summer 2026 Startups and Found 31 That Are Just a SKILL.md](https://dev.to/harishkotra/i-scraped-all-234-yc-summer-2026-startups-and-found-31-that-are-just-a-skillmd-2n51)
 - [Building Prism: a 100%-offline 3D visualizer for your AI coding history](https://dev.to/harishkotra/building-prism-a-100-offline-3d-visualizer-for-your-ai-coding-history-3ocl)
-- [ArchitectGPT: Turning One Sentence Into a Production Architecture Diagram &lpar;and a Roast&rpar;](https://dev.to/harishkotra/architectgpt-turning-one-sentence-into-a-production-architecture-diagram-and-a-roast-533)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
