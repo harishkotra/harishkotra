@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Two Models, One Board: Building &quot;Model vs Model&quot;](https://dev.to/harishkotra/two-models-one-board-building-model-vs-model-2h6a)
+- [Automating LLM A/B Testing: How to Build a Cross-Model Evaluation Harness Programmatically](https://dev.to/harishkotra/automating-llm-ab-testing-how-to-build-a-cross-model-evaluation-harness-programmatically-5g5h)
 - [I made two LLMs draw the same cat. The constraint is the whole point.](https://dev.to/harishkotra/i-made-two-llms-draw-the-same-cat-the-constraint-is-the-whole-point-34ed)
 - [I measured how deterministic LLMs actually are, prompt by prompt. The results broke my hypothesis.](https://dev.to/harishkotra/i-measured-how-deterministic-llms-actually-are-prompt-by-prompt-the-results-broke-my-hypothesis-1p7j)
 - [I built a particle simulator to find out if two AI models are secretly the same model](https://dev.to/harishkotra/i-built-a-particle-simulator-to-find-out-if-two-ai-models-are-secretly-the-same-model-1dp4)
-- [I Built a Drag Race for LLMs, and the Loser Is Usually the Better Model](https://dev.to/harishkotra/i-built-a-drag-race-for-llms-and-the-loser-is-usually-the-better-model-17o1)
-- [Why Your AI Agents Keep Calling the Wrong Tools &lpar;And How We Built Toolsmith to Fix Them&rpar;](https://dev.to/harishkotra/why-your-ai-agents-keep-calling-the-wrong-tools-and-how-we-built-toolsmith-to-fix-them-2lle)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
