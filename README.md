@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building &quot;The One-Sentence Torture Test&quot;: making LLM comparisons falsifiable](https://dev.to/harishkotra/building-the-one-sentence-torture-test-making-llm-comparisons-falsifiable-43kl)
 - [Building The Confidence Curve](https://dev.to/harishkotra/building-the-confidence-curve-99i)
 - [Two Models, One Board: Building &quot;Model vs Model&quot;](https://dev.to/harishkotra/two-models-one-board-building-model-vs-model-2h6a)
 - [Automating LLM A/B Testing: How to Build a Cross-Model Evaluation Harness Programmatically](https://dev.to/harishkotra/automating-llm-ab-testing-how-to-build-a-cross-model-evaluation-harness-programmatically-5g5h)
 - [I made two LLMs draw the same cat. The constraint is the whole point.](https://dev.to/harishkotra/i-made-two-llms-draw-the-same-cat-the-constraint-is-the-whole-point-34ed)
-- [I measured how deterministic LLMs actually are, prompt by prompt. The results broke my hypothesis.](https://dev.to/harishkotra/i-measured-how-deterministic-llms-actually-are-prompt-by-prompt-the-results-broke-my-hypothesis-1p7j)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
