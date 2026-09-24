@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Glyph: I made two AI models fight inside real terminals and the only honest judge is a PTY](https://dev.to/harishkotra/glyph-i-made-two-ai-models-fight-inside-real-terminals-and-the-only-honest-judge-is-a-pty-fha)
+- [Two models, one prompt, and the checklist that made it worth sharing](https://dev.to/harishkotra/two-models-one-prompt-and-the-checklist-that-made-it-worth-sharing-58ie)
 - [How I built Refract: a live arena where two LLMs fight in GLSL](https://dev.to/harishkotra/how-i-built-refract-a-live-arena-where-two-llms-fight-in-glsl-4a2l)
 - [Which Model Wrote This? — building a game that measures whether you can tell two LLMs apart](https://dev.to/harishkotra/which-model-wrote-this-building-a-game-that-measures-whether-you-can-tell-two-llms-apart-c26)
 - [Building &quot;The One-Sentence Torture Test&quot;: making LLM comparisons falsifiable](https://dev.to/harishkotra/building-the-one-sentence-torture-test-making-llm-comparisons-falsifiable-43kl)
-- [Building The Confidence Curve](https://dev.to/harishkotra/building-the-confidence-curve-99i)
-- [Two Models, One Board: Building &quot;Model vs Model&quot;](https://dev.to/harishkotra/two-models-one-board-building-model-vs-model-2h6a)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
