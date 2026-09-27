@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Proving a Model Upgrade With CSS and a Disabled Script Engine](https://dev.to/harishkotra/proving-a-model-upgrade-with-css-and-a-disabled-script-engine-38np)
 - [Reverb: Making Model Progress Audible - Two LLMs, One Prompt, Eight Seconds of Web Audio](https://dev.to/harishkotra/reverb-making-model-progress-audible-two-llms-one-prompt-eight-seconds-of-web-audio-5cmm)
 - [Graphite: making two LLMs draw their own comparison](https://dev.to/harishkotra/graphite-making-two-llms-draw-their-own-comparison-13p1)
 - [Glyph: I made two AI models fight inside real terminals and the only honest judge is a PTY](https://dev.to/harishkotra/glyph-i-made-two-ai-models-fight-inside-real-terminals-and-the-only-honest-judge-is-a-pty-fha)
 - [Two models, one prompt, and the checklist that made it worth sharing](https://dev.to/harishkotra/two-models-one-prompt-and-the-checklist-that-made-it-worth-sharing-58ie)
-- [How I built Refract: a live arena where two LLMs fight in GLSL](https://dev.to/harishkotra/how-i-built-refract-a-live-arena-where-two-llms-fight-in-glsl-4a2l)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
