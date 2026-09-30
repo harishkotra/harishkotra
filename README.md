@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bloom: I Made Two LLMs Paint the Same Sentence and Measured What Happened](https://dev.to/harishkotra/bloom-i-made-two-llms-paint-the-same-sentence-and-measured-what-happened-3lga)
 - [Weave: turning two models&#39; answers into one claim graph](https://dev.to/harishkotra/weave-turning-two-models-answers-into-one-claim-graph-4a4a)
 - [Proving a Model Upgrade With CSS and a Disabled Script Engine](https://dev.to/harishkotra/proving-a-model-upgrade-with-css-and-a-disabled-script-engine-38np)
 - [Reverb: Making Model Progress Audible - Two LLMs, One Prompt, Eight Seconds of Web Audio](https://dev.to/harishkotra/reverb-making-model-progress-audible-two-llms-one-prompt-eight-seconds-of-web-audio-5cmm)
 - [Graphite: making two LLMs draw their own comparison](https://dev.to/harishkotra/graphite-making-two-llms-draw-their-own-comparison-13p1)
-- [Glyph: I made two AI models fight inside real terminals and the only honest judge is a PTY](https://dev.to/harishkotra/glyph-i-made-two-ai-models-fight-inside-real-terminals-and-the-only-honest-judge-is-a-pty-fha)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
