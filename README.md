@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Clay: an A2UI host where the model emits interface instead of prose](https://dev.to/harishkotra/building-clay-an-a2ui-host-where-the-model-emits-interface-instead-of-prose-2e08)
 - [One UI, Any Agent: Proving Framework Independence with AG-UI, Mastra, and React](https://dev.to/harishkotra/one-ui-any-agent-proving-framework-independence-with-ag-ui-mastra-and-react-3llg)
 - [Bloom: I Made Two LLMs Paint the Same Sentence and Measured What Happened](https://dev.to/harishkotra/bloom-i-made-two-llms-paint-the-same-sentence-and-measured-what-happened-3lga)
 - [Weave: turning two models&#39; answers into one claim graph](https://dev.to/harishkotra/weave-turning-two-models-answers-into-one-claim-graph-4a4a)
 - [Proving a Model Upgrade With CSS and a Disabled Script Engine](https://dev.to/harishkotra/proving-a-model-upgrade-with-css-and-a-disabled-script-engine-38np)
-- [Reverb: Making Model Progress Audible - Two LLMs, One Prompt, Eight Seconds of Web Audio](https://dev.to/harishkotra/reverb-making-model-progress-audible-two-llms-one-prompt-eight-seconds-of-web-audio-5cmm)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
