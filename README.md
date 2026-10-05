@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Your agent is a long-running process with side effects. Kill it and watch what happens.](https://dev.to/harishkotra/your-agent-is-a-long-running-process-with-side-effects-kill-it-and-watch-what-happens-2p0)
 - [Sleeptime memory consolidation: an agent that edits its own memory and proves it still remembers](https://dev.to/harishkotra/sleeptime-memory-consolidation-an-agent-that-edits-its-own-memory-and-proves-it-still-remembers-53be)
 - [Luthier: an agent that audits an AI coding agent&#39;s harness against the repo it governs.](https://dev.to/harishkotra/luthier-an-agent-that-audits-an-ai-coding-agents-harness-against-the-repo-it-governs-171k)
 - [Building Clay: an A2UI host where the model emits interface instead of prose](https://dev.to/harishkotra/building-clay-an-a2ui-host-where-the-model-emits-interface-instead-of-prose-2e08)
 - [One UI, Any Agent: Proving Framework Independence with AG-UI, Mastra, and React](https://dev.to/harishkotra/one-ui-any-agent-proving-framework-independence-with-ag-ui-mastra-and-react-3llg)
-- [Bloom: I Made Two LLMs Paint the Same Sentence and Measured What Happened](https://dev.to/harishkotra/bloom-i-made-two-llms-paint-the-same-sentence-and-measured-what-happened-3lga)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
