@@ -24,8 +24,7 @@ jobs:
 
       - name: Update YouTube videos
         uses: gautamkrishnar/blog-post-workflow@v1
-        continue-on-error: true
         with:
           comment_tag_name: YOUTUBE
-          feed_list: https://www.youtube.com/feeds/videos.xml?channel_id=UCYdwkx72oKSkmbrMWQXLnxw
+          feed_list: https://www.youtube.com/feeds/videos.xml?channel_id=UCYdWkx72oKSkmbrMWQXLnxw
           max_post_count: 5
