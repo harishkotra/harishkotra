@@ -28,21 +28,21 @@ Currently consulting with **EVM Systems** and **quirq.ai** on developer experien
 
 ## Featured work
 
-### [agent-office](https://github.com/harishkotra/agent-office) · TypeScript · 327★ · 104 forks
+### [agent-office](https://github.com/harishkotra/agent-office) | TypeScript | 327★ | 104 forks
 Watch AI agents walk to desks, think, collaborate, hire interns, assign each other tasks, run code and search the web, all rendered in real time as pixel art with persistent state.
 *A working reference for multi-agent orchestration you can watch rather than a diagram.*
 
-### [dailybuild.xyz](https://dailybuild.xyz) · 275+ builds since Jan 1, 2026
+### [dailybuild.xyz](https://dailybuild.xyz) | 275+ builds since Jan 1, 2026
 One shipped AI project every day, in public. Everything from an LLM council and a six-model Rubik's Cube decision arena to an offline medical scribe and a carbon-credit agent market.
 
-### [clonewriter](https://github.com/harishkotra/clonewriter) · TypeScript · 11★
+### [clonewriter](https://github.com/harishkotra/clonewriter) | TypeScript | 11★
 A 100% private AI agent that writes in your personal style, running entirely on local LLMs via Ollama. Nothing leaves the machine.
 
 ---
 
 ## Highlights
 
-### 🧠 AI agents & developer relations at GaiaNet
+### AI agents & developer relations at GaiaNet
 - Built **40+** integration demos for autonomous AI agents ([dev.to/gaiaai](https://dev.to/gaiaai))
 - Shipped open-source repos including **[Gaia Cookbook](https://github.com/gaianet-ai/gaia-cookbook)**
 - Ran workshops, talks and community events:
@@ -52,18 +52,18 @@ A 100% private AI agent that writes in your personal style, running entirely on 
   - [ETHGlobal Singapore 2024](https://youtu.be/OOyFR-2_urY)
   - OpenSource India 2024 and 2025
 
-### 🌍 Developer ecosystems at AngelHack & Tribe
+### Developer ecosystems at AngelHack & Tribe
 - Managed multi-country developer ecosystems across India, Sri Lanka, Nepal and Maldives (**95K+ developers**)
 - Built an ambassador program with **400+ ambassadors** a year
 - Ran **10+ hackathons a year** plus innovation programs for AWS, Shopify and IBM
 
-### 💡 Product & platform engineering
+### Product & platform engineering
 - Product Manager at iBot (Nestlé, HUL, Elkay IoT dashboards)
 - Head of Technology at Deep Red Ink (SaaS, analytics, APIs)
 
 ---
 
-## 🎤 Speaking
+## Speaking
 
 - MCP Dev Summit Mumbai [2026](https://www.youtube.com/watch?v=eSiP2efQmS4)
 - Open Source India [2024](https://www.opensourceindia.in/osi-speakers-2024/harish-kotra/) | [2025](https://www.opensourceindia.in/osi-speakers-2025/harish-kotra-2/)
@@ -75,7 +75,7 @@ A 100% private AI agent that writes in your personal style, running entirely on 
 
 ---
 
-## 🛠 What I work with
+## What I work with
 
 **Core**
 - AI agents & LLM integrations
@@ -100,27 +100,25 @@ Agent frameworks (Burr, Agno, Strands) · local LLMs (Ollama, LM Studio) · MCP 
 
 ---
 
-## ✍️ Latest writing
+## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## 📺 Latest videos
+## Latest videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-## 📊 GitHub
+## GitHub
 
 ![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishkotra&show_icons=true&theme=dark&hide_border=true#gh-dark-mode-only)
-![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishkotra&show_icons=true&hide_border=true#gh-light-mode-only)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=harishkotra&theme=dark&hide_border=true#gh-dark-mode-only)
-![GitHub Streak](https://streak-stats.demolab.com/?user=harishkotra&theme=light&hide_border=true#gh-light-mode-only)
 
 ---
 
-## 🤝 Connect
+## Connect
 
 [![Email](https://img.shields.io/badge/📧_Email-kotra@holikau.org-red?style=for-the-badge)](mailto:kotra@holikau.org)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge)](https://linkedin.com/in/harishkotra)
