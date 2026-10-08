@@ -93,11 +93,11 @@ I build and scale thriving developer ecosystems around emerging technologies —
 
 ##  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Anvil: code-as-action with a capability sandbox that explains its refusals.](https://dev.to/harishkotra/building-anvil-code-as-action-with-a-capability-sandbox-that-explains-its-refusals-4615)
 - [How Arbiter works, why it was built, and the four measurements it made about an LLM judge that I had to look at twice.](https://dev.to/harishkotra/how-arbiter-works-why-it-was-built-and-the-four-measurements-it-made-about-an-llm-judge-that-i-1doj)
 - [How I built a time-travel debugger for LLM agents on Burr, and what &quot;replay the unchanged branch and prove nothing changed&quot; actually takes.](https://dev.to/harishkotra/how-i-built-a-time-travel-debugger-for-llm-agents-on-burr-and-what-replay-the-unchanged-branch-3a91)
 - [Your agent is a long-running process with side effects. Kill it and watch what happens.](https://dev.to/harishkotra/your-agent-is-a-long-running-process-with-side-effects-kill-it-and-watch-what-happens-2p0)
 - [Sleeptime memory consolidation: an agent that edits its own memory and proves it still remembers](https://dev.to/harishkotra/sleeptime-memory-consolidation-an-agent-that-edits-its-own-memory-and-proves-it-still-remembers-53be)
-- [Luthier: an agent that audits an AI coding agent&#39;s harness against the repo it governs.](https://dev.to/harishkotra/luthier-an-agent-that-audits-an-ai-coding-agents-harness-against-the-repo-it-governs-171k)
 <!-- BLOG-POST-LIST:END -->
 
 ##  Latest YouTube Videos
