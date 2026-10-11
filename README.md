@@ -103,11 +103,11 @@ Agent frameworks (Burr, Agno, Strands) · local LLMs (Ollama, LM Studio) · MCP 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [I built the same agent twice to see what a framework actually deletes](https://dev.to/harishkotra/i-built-the-same-agent-twice-to-see-what-a-framework-actually-deletes-26af)
+- [Two agents, two companies, one protocol: building a visible agent-to-agent negotiation](https://dev.to/harishkotra/two-agents-two-companies-one-protocol-building-a-visible-agent-to-agent-negotiation-2j8m)
 - [Guardrails are a lie until they&#39;re arithmetic](https://dev.to/harishkotra/guardrails-are-a-lie-until-theyre-arithmetic-45jl)
 - [Building a Rubik&#39;s Cube Decision Arena with 6 Decision Models &lpar;Laya, Clef, GLiNER 2.5, Kev and Strands Decider&rpar;](https://dev.to/harishkotra/building-a-rubiks-cube-decision-arena-with-6-decision-models-laya-clef-gliner-25-kev-and-2l9i)
 - [Building Anvil: code-as-action with a capability sandbox that explains its refusals.](https://dev.to/harishkotra/building-anvil-code-as-action-with-a-capability-sandbox-that-explains-its-refusals-4615)
-- [How Arbiter works, why it was built, and the four measurements it made about an LLM judge that I had to look at twice.](https://dev.to/harishkotra/how-arbiter-works-why-it-was-built-and-the-four-measurements-it-made-about-an-llm-judge-that-i-1doj)
-- [How I built a time-travel debugger for LLM agents on Burr, and what &quot;replay the unchanged branch and prove nothing changed&quot; actually takes.](https://dev.to/harishkotra/how-i-built-a-time-travel-debugger-for-llm-agents-on-burr-and-what-replay-the-unchanged-branch-3a91)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest videos
