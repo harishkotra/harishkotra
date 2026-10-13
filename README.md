@@ -103,11 +103,11 @@ Agent frameworks (Burr, Agno, Strands) · local LLMs (Ollama, LM Studio) · MCP 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [I built an app where you type a sentence and a real, editable design appears on a Penpot canvas](https://dev.to/harishkotra/i-built-an-app-where-you-type-a-sentence-and-a-real-editable-design-appears-on-a-penpot-canvas-1d5b)
 - [I built the same agent twice to see what a framework actually deletes](https://dev.to/harishkotra/i-built-the-same-agent-twice-to-see-what-a-framework-actually-deletes-26af)
 - [Two agents, two companies, one protocol: building a visible agent-to-agent negotiation](https://dev.to/harishkotra/two-agents-two-companies-one-protocol-building-a-visible-agent-to-agent-negotiation-2j8m)
 - [Guardrails are a lie until they&#39;re arithmetic](https://dev.to/harishkotra/guardrails-are-a-lie-until-theyre-arithmetic-45jl)
 - [Building a Rubik&#39;s Cube Decision Arena with 6 Decision Models &lpar;Laya, Clef, GLiNER 2.5, Kev and Strands Decider&rpar;](https://dev.to/harishkotra/building-a-rubiks-cube-decision-arena-with-6-decision-models-laya-clef-gliner-25-kev-and-2l9i)
-- [Building Anvil: code-as-action with a capability sandbox that explains its refusals.](https://dev.to/harishkotra/building-anvil-code-as-action-with-a-capability-sandbox-that-explains-its-refusals-4615)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest videos
