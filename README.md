@@ -103,11 +103,11 @@ Agent frameworks (Burr, Agno, Strands) · local LLMs (Ollama, LM Studio) · MCP 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [How I made a small decision model&#39;s belief visible, and what that taught me about building honest AI demos.](https://dev.to/harishkotra/how-i-made-a-small-decision-models-belief-visible-and-what-that-taught-me-about-building-honest-4gc1)
 - [Your agent says it addressed the review comments. Here&#39;s how you find out if it actually did.](https://dev.to/harishkotra/your-agent-says-it-addressed-the-review-comments-heres-how-you-find-out-if-it-actually-did-557)
 - [Four AI agents argue over one Penpot canvas until the design is good](https://dev.to/harishkotra/four-ai-agents-argue-over-one-penpot-canvas-until-the-design-is-good-f0g)
 - [I built an app where you type a sentence and a real, editable design appears on a Penpot canvas](https://dev.to/harishkotra/i-built-an-app-where-you-type-a-sentence-and-a-real-editable-design-appears-on-a-penpot-canvas-1d5b)
 - [I built the same agent twice to see what a framework actually deletes](https://dev.to/harishkotra/i-built-the-same-agent-twice-to-see-what-a-framework-actually-deletes-26af)
-- [Two agents, two companies, one protocol: building a visible agent-to-agent negotiation](https://dev.to/harishkotra/two-agents-two-companies-one-protocol-building-a-visible-agent-to-agent-negotiation-2j8m)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest videos
