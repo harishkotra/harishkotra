@@ -103,11 +103,11 @@ Agent frameworks (Burr, Agno, Strands) · local LLMs (Ollama, LM Studio) · MCP 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [The model scored 19 percent, then rewrote its own manual to 100](https://dev.to/harishkotra/the-model-scored-19-percent-then-rewrote-its-own-manual-to-100-3mm2)
 - [I built the smallest version of local semantic search for macOS](https://dev.to/harishkotra/i-built-the-smallest-version-of-local-semantic-search-for-macos-5cjl)
 - [Two local decision models play chess, and every probability is on screen](https://dev.to/harishkotra/two-local-decision-models-play-chess-and-every-probability-is-on-screen-2kc6)
 - [How I made a small decision model&#39;s belief visible, and what that taught me about building honest AI demos.](https://dev.to/harishkotra/how-i-made-a-small-decision-models-belief-visible-and-what-that-taught-me-about-building-honest-4gc1)
 - [Your agent says it addressed the review comments. Here&#39;s how you find out if it actually did.](https://dev.to/harishkotra/your-agent-says-it-addressed-the-review-comments-heres-how-you-find-out-if-it-actually-did-557)
-- [Four AI agents argue over one Penpot canvas until the design is good](https://dev.to/harishkotra/four-ai-agents-argue-over-one-penpot-canvas-until-the-design-is-good-f0g)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest videos
