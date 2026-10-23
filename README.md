@@ -103,11 +103,11 @@ Agent frameworks (Burr, Agno, Strands) · local LLMs (Ollama, LM Studio) · MCP 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [I put a 740M vision model in a browser tab and finally searched my meme folder](https://dev.to/harishkotra/i-put-a-740m-vision-model-in-a-browser-tab-and-finally-searched-my-meme-folder-3d38)
 - [Sloth Mode: an agent that does your dread while you do nothing](https://dev.to/harishkotra/sloth-mode-an-agent-that-does-your-dread-while-you-do-nothing-2peb)
 - [Ask in Telugu, get the answer out of an English insurance policy](https://dev.to/harishkotra/ask-in-telugu-get-the-answer-out-of-an-english-insurance-policy-1kg7)
 - [A 2B vision model judged my listing photos. It knew what was wrong and still could not tell me whether to ship them.](https://dev.to/harishkotra/a-2b-vision-model-judged-my-listing-photos-it-knew-what-was-wrong-and-still-could-not-tell-me-256k)
 - [The model scored 19 percent, then rewrote its own manual to 100](https://dev.to/harishkotra/the-model-scored-19-percent-then-rewrote-its-own-manual-to-100-3mm2)
-- [I built the smallest version of local semantic search for macOS](https://dev.to/harishkotra/i-built-the-smallest-version-of-local-semantic-search-for-macos-5cjl)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest videos
