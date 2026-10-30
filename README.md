@@ -103,11 +103,11 @@ Agent frameworks (Burr, Agno, Strands) · local LLMs (Ollama, LM Studio) · MCP 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Two databases, one question: how I built Eligible](https://dev.to/harishkotra/two-databases-one-question-how-i-built-eligible-2im3)
 - [I built a local photo rescuer in a day, and the hard part was not the model](https://dev.to/harishkotra/i-built-a-local-photo-rescuer-in-a-day-and-the-hard-part-was-not-the-model-2hp1)
 - [Catchment: answering five questions about a place with one database](https://dev.to/harishkotra/catchment-answering-five-questions-about-a-place-with-one-database-2i05)
 - [I built an oracle that refuses to answer](https://dev.to/harishkotra/i-built-an-oracle-that-refuses-to-answer-2ka4)
 - [The Enforcement Gap: measuring whether a coding agent follows its own rulebook](https://dev.to/harishkotra/the-enforcement-gap-measuring-whether-a-coding-agent-follows-its-own-rulebook-h8a)
-- [Your coding agent isn&#39;t flaky. Its inference server is.](https://dev.to/harishkotra/your-coding-agent-isnt-flaky-its-inference-server-is-kn4)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest videos
