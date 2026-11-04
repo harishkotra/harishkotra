@@ -103,11 +103,11 @@ Agent frameworks (Burr, Agno, Strands) · local LLMs (Ollama, LM Studio) · MCP 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [I built a video detective that runs on a 2B model and never phones home](https://dev.to/harishkotra/i-built-a-video-detective-that-runs-on-a-2b-model-and-never-phones-home-4i5p)
 - [Two databases, one question: how I built Eligible](https://dev.to/harishkotra/two-databases-one-question-how-i-built-eligible-2f4d)
 - [Selling a judgement to an agent](https://dev.to/harishkotra/selling-a-judgement-to-an-agent-4j7h)
 - [Can an agent buy from you?](https://dev.to/harishkotra/can-an-agent-buy-from-you-i5m)
 - [I built a napkin that turns scribbles into real diagrams, entirely in the browser](https://dev.to/harishkotra/i-built-a-napkin-that-turns-scribbles-into-real-diagrams-entirely-in-the-browser-1ia8)
-- [I tried to test Google&#39;s &quot;sleep&quot; paper on a Mac mini](https://dev.to/harishkotra/i-tried-to-test-googles-sleep-paper-on-a-mac-mini-1ofh)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest videos
