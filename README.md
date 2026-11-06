@@ -103,11 +103,11 @@ Agent frameworks (Burr, Agno, Strands) · local LLMs (Ollama, LM Studio) · MCP 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [I built a UI where two agents pay each other real money, so I could explain what MCP and A2A don&#39;t cover](https://dev.to/harishkotra/i-built-a-ui-where-two-agents-pay-each-other-real-money-so-i-could-explain-what-mcp-and-a2a-dont-3j00)
 - [Can an agent buy from you? A one-cent till, six refusals, and twelve cold agents](https://dev.to/harishkotra/can-an-agent-buy-from-you-a-one-cent-till-six-refusals-and-twelve-cold-agents-3ehm)
 - [I built a video detective that runs on a 2B model and never phones home](https://dev.to/harishkotra/i-built-a-video-detective-that-runs-on-a-2b-model-and-never-phones-home-4i5p)
 - [Two databases, one question: how I built Eligible](https://dev.to/harishkotra/two-databases-one-question-how-i-built-eligible-2f4d)
 - [Selling a judgement to an agent](https://dev.to/harishkotra/selling-a-judgement-to-an-agent-4j7h)
-- [Can an agent buy from you?](https://dev.to/harishkotra/can-an-agent-buy-from-you-i5m)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest videos
