@@ -103,11 +103,11 @@ Agent frameworks (Burr, Agno, Strands) · local LLMs (Ollama, LM Studio) · MCP 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [BaoKey: making the display the attacker](https://dev.to/harishkotra/baokey-making-the-display-the-attacker-n64)
 - [Your signing key should refuse to work](https://dev.to/harishkotra/your-signing-key-should-refuse-to-work-252k)
 - [Your tipster&#39;s record is a screenshot. I built one that can&#39;t be edited.](https://dev.to/harishkotra/your-tipsters-record-is-a-screenshot-i-built-one-that-cant-be-edited-3lhb)
 - [Building Round: All-or-nothing USDC escrow for micro-raises on Arc](https://dev.to/harishkotra/building-round-all-or-nothing-usdc-escrow-for-micro-raises-on-arc-25ih)
 - [Building ClearAudit: evidence-gated USDC settlement on Arc](https://dev.to/harishkotra/building-clearaudit-evidence-gated-usdc-settlement-on-arc-1pc9)
-- [I built a UI where two agents pay each other real money, so I could explain what MCP and A2A don&#39;t cover](https://dev.to/harishkotra/i-built-a-ui-where-two-agents-pay-each-other-real-money-so-i-could-explain-what-mcp-and-a2a-dont-3j00)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest videos
