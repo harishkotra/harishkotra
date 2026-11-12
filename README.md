@@ -103,11 +103,11 @@ Agent frameworks (Burr, Agno, Strands) · local LLMs (Ollama, LM Studio) · MCP 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a website that dies on purpose](https://dev.to/harishkotra/building-a-website-that-dies-on-purpose-28mn)
 - [BaoKey: making the display the attacker](https://dev.to/harishkotra/baokey-making-the-display-the-attacker-n64)
 - [Your signing key should refuse to work](https://dev.to/harishkotra/your-signing-key-should-refuse-to-work-252k)
 - [Your tipster&#39;s record is a screenshot. I built one that can&#39;t be edited.](https://dev.to/harishkotra/your-tipsters-record-is-a-screenshot-i-built-one-that-cant-be-edited-3lhb)
 - [Building Round: All-or-nothing USDC escrow for micro-raises on Arc](https://dev.to/harishkotra/building-round-all-or-nothing-usdc-escrow-for-micro-raises-on-arc-25ih)
-- [Building ClearAudit: evidence-gated USDC settlement on Arc](https://dev.to/harishkotra/building-clearaudit-evidence-gated-usdc-settlement-on-arc-1pc9)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest videos
