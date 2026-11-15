@@ -103,11 +103,11 @@ Agent frameworks (Burr, Agno, Strands) · local LLMs (Ollama, LM Studio) · MCP 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Building umbral: an FX agent that refuses on purpose](https://dev.to/harishkotra/building-umbral-an-fx-agent-that-refuses-on-purpose-1n19)
 - [Flat Bets: parimutuel prediction markets where every bet burns WIF](https://dev.to/harishkotra/flat-bets-parimutuel-prediction-markets-where-every-bet-burns-wif-3kd9)
 - [Fine Print: a document reader that is not allowed to conclude](https://dev.to/harishkotra/fine-print-a-document-reader-that-is-not-allowed-to-conclude-26c1)
 - [Building a website that dies on purpose](https://dev.to/harishkotra/building-a-website-that-dies-on-purpose-28mn)
 - [BaoKey: making the display the attacker](https://dev.to/harishkotra/baokey-making-the-display-the-attacker-n64)
-- [Your signing key should refuse to work](https://dev.to/harishkotra/your-signing-key-should-refuse-to-work-252k)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest videos
