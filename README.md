@@ -113,11 +113,11 @@ Agent frameworks (Burr, Agno, Strands) · local LLMs (Ollama, LM Studio) · MCP 
 ## Latest videos
 
 <!-- YOUTUBE:START -->
+- [OpenCode Breach: మీ API Keys ఎలా లీక్ అయ్యాయి? | AI Security Warning](https://www.youtube.com/watch?v=jh_18IndAGg)
 - [AI ఏజెంట్స్ లో “Always Allow” ఎందుకు డేంజరస్? | Permissions ప్రాబ్లం | Telugu](https://www.youtube.com/shorts/QIxq0TNkns4)
 - [AI Proved 123 Libraries Correct | Formal Verification &lpar;Telugu&rpar;](https://www.youtube.com/shorts/x3gR6MI9SmE)
 - [Google DeepMind Genie 4: AI That Generates Entire Worlds You Can Walk Into](https://www.youtube.com/shorts/EX5fwAIqFZI)
 - [AI Is Starting to Invent Its Own Algorithms | Algorithm Discovery](https://www.youtube.com/shorts/bCTttbij6tk)
-- [Your Browser Will Trust a Fake google.com, Here&#39;s How](https://www.youtube.com/shorts/yq2fezz7fak)
 <!-- YOUTUBE:END -->
 
 ## GitHub
