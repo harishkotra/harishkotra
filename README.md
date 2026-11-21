@@ -103,11 +103,11 @@ Agent frameworks (Burr, Agno, Strands) · local LLMs (Ollama, LM Studio) · MCP 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [How I built Reserve: an agent that refuses to trade](https://dev.to/harishkotra/how-i-built-reserve-an-agent-that-refuses-to-trade-8hp)
 - [Palm Pilot: building a touchless interface for AI coding agents](https://dev.to/harishkotra/palm-pilot-building-a-touchless-interface-for-ai-coding-agents-3hmd)
 - [The refusal is in English even when the request is not](https://dev.to/harishkotra/the-refusal-is-in-english-even-when-the-request-is-not-1ii3)
 - [I built a steering wheel for an LLM&#39;s prose and a speedometer that tells you when it isn&#39;t working](https://dev.to/harishkotra/i-built-a-steering-wheel-for-an-llms-prose-and-a-speedometer-that-tells-you-when-it-isnt-working-66c)
 - [I built a mesh you can cut: debugging Offline Protocol with real nodes on one laptop](https://dev.to/harishkotra/i-built-a-mesh-you-can-cut-debugging-offline-protocol-with-real-nodes-on-one-laptop-12h0)
-- [Building arkiv: a CLI for a database that lives on a blockchain](https://dev.to/harishkotra/building-arkiv-a-cli-for-a-database-that-lives-on-a-blockchain-a5j)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest videos
