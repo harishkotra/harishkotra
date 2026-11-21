@@ -113,11 +113,11 @@ Agent frameworks (Burr, Agno, Strands) · local LLMs (Ollama, LM Studio) · MCP 
 ## Latest videos
 
 <!-- YOUTUBE:START -->
+- [AI Is Moving From Internet Data to the Laws of Physics | CERN x Mistral FLAIR](https://www.youtube.com/shorts/pfxU0iZ2Q18)
 - [AI Memory: Why Forgetting Makes Agents Smarter](https://www.youtube.com/shorts/HKobqNu5NqI)
 - [Agent-Friendly Internet: Why AI Needs Data, Not Web Pages](https://www.youtube.com/shorts/IFaOpn_n0go)
 - [OpenCode Breach: మీ API Keys ఎలా లీక్ అయ్యాయి? | AI Security Warning](https://www.youtube.com/watch?v=jh_18IndAGg)
 - [AI ఏజెంట్స్ లో “Always Allow” ఎందుకు డేంజరస్? | Permissions ప్రాబ్లం | Telugu](https://www.youtube.com/shorts/QIxq0TNkns4)
-- [AI Proved 123 Libraries Correct | Formal Verification &lpar;Telugu&rpar;](https://www.youtube.com/shorts/x3gR6MI9SmE)
 <!-- YOUTUBE:END -->
 
 ## GitHub
