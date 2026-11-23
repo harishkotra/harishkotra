@@ -103,11 +103,11 @@ Agent frameworks (Burr, Agno, Strands) · local LLMs (Ollama, LM Studio) · MCP 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Your agent has no tests. Here is how I gave mine a regression suite.](https://dev.to/harishkotra/your-agent-has-no-tests-here-is-how-i-gave-mine-a-regression-suite-1ch)
+- [Building Nimby, a searchable camera roll that runs on your phone](https://dev.to/harishkotra/building-nimby-a-searchable-camera-roll-that-runs-on-your-phone-52kg)
 - [FreshGauge: a freshness control plane inside the LLM gateway](https://dev.to/harishkotra/freshgauge-a-freshness-control-plane-inside-the-llm-gateway-533e)
 - [How I built Reserve: an agent that refuses to trade](https://dev.to/harishkotra/how-i-built-reserve-an-agent-that-refuses-to-trade-8hp)
 - [Palm Pilot: building a touchless interface for AI coding agents](https://dev.to/harishkotra/palm-pilot-building-a-touchless-interface-for-ai-coding-agents-3hmd)
-- [The refusal is in English even when the request is not](https://dev.to/harishkotra/the-refusal-is-in-english-even-when-the-request-is-not-1ii3)
-- [I built a steering wheel for an LLM&#39;s prose and a speedometer that tells you when it isn&#39;t working](https://dev.to/harishkotra/i-built-a-steering-wheel-for-an-llms-prose-and-a-speedometer-that-tells-you-when-it-isnt-working-66c)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest videos
