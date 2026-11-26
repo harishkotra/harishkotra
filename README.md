@@ -103,11 +103,11 @@ Agent frameworks (Burr, Agno, Strands) · local LLMs (Ollama, LM Studio) · MCP 
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [How Inbo organizes SMS without a backend](https://dev.to/harishkotra/how-inbo-organizes-sms-without-a-backend-4m1l)
 - [Building a TAP Marketplace Starter Kit](https://dev.to/harishkotra/building-a-tap-marketplace-starter-kit-12fh)
 - [Your agent has no tests. Here is how I gave mine a regression suite.](https://dev.to/harishkotra/your-agent-has-no-tests-here-is-how-i-gave-mine-a-regression-suite-1ch)
 - [Building Nimby, a searchable camera roll that runs on your phone](https://dev.to/harishkotra/building-nimby-a-searchable-camera-roll-that-runs-on-your-phone-52kg)
 - [FreshGauge: a freshness control plane inside the LLM gateway](https://dev.to/harishkotra/freshgauge-a-freshness-control-plane-inside-the-llm-gateway-533e)
-- [How I built Reserve: an agent that refuses to trade](https://dev.to/harishkotra/how-i-built-reserve-an-agent-that-refuses-to-trade-8hp)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest videos
