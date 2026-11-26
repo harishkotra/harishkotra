@@ -113,11 +113,11 @@ Agent frameworks (Burr, Agno, Strands) · local LLMs (Ollama, LM Studio) · MCP 
 ## Latest videos
 
 <!-- YOUTUBE:START -->
+- [AI Memory Is Broken: Agents Remember Facts, Not How They Solved Things](https://www.youtube.com/shorts/4MQ1hIKYtaE)
 - [Sandbagging: Why AI Models Pretend to Be Dumber Than They Are](https://www.youtube.com/shorts/b06dNCJUwj0)
 - [Cloudflare Now Lets Websites Block AI Agents. Here&#39;s What Changes](https://www.youtube.com/shorts/Cqwee4JQA4g)
 - [I Built an AI That Remembers Your Entire Photo Gallery &lpar;100% Offline&rpar;](https://www.youtube.com/watch?v=3CxlTXBA5oM)
 - [AI Is Moving From Internet Data to the Laws of Physics | CERN x Mistral FLAIR](https://www.youtube.com/shorts/pfxU0iZ2Q18)
-- [AI Memory: Why Forgetting Makes Agents Smarter](https://www.youtube.com/shorts/HKobqNu5NqI)
 <!-- YOUTUBE:END -->
 
 ## GitHub
